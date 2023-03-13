@@ -1,0 +1,8 @@
+README.md
+setup.py
+libtestjar/__init__.py
+libtestjar/myfunctions.py
+libtestjar.egg-info/PKG-INFO
+libtestjar.egg-info/SOURCES.txt
+libtestjar.egg-info/dependency_links.txt
+libtestjar.egg-info/top_level.txt
